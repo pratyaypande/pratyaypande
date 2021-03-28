@@ -1,14 +1,18 @@
 ### Hi there 👋
 <html>
-  <head>
-    
+  <style>
+    .bol {
+      font-weight:500;
+    }
+  </style>
     I am Pratyay, currently in my final year of undergraduate studies.
-  </head>
   <body>
+    😄 Pronouns: he/him
+    🔭 My current work primarily focusses on front-end web development using ReactJS and plugin development for Vim
+    🌱 I’m currently learning Tensorflow and React Native.
   </body>
 </html>
 <!--
-**pSQuar3/pSQuar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
