@@ -1,10 +1,5 @@
 ### Hi there 👋
 <html>
-  <style>
-    .bol {
-      font-weight:500;
-    }
-  </style>
     I am Pratyay, currently in my final year of undergraduate studies.
   <body>
     😄 Pronouns: he/him
