@@ -5,7 +5,7 @@
     I am Pratyay, currently in my final year of undergraduate studies.
   </head>
   <body>
-    
+  </body>
 </html>
 <!--
 **pSQuar3/pSQuar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
