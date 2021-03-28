@@ -1,12 +1,13 @@
 ### Hi there 👋
-<html>
-    I am Pratyay, currently in my final year of undergraduate studies.
-  <body>
-    😄 Pronouns: he/him
-    🔭 My current work primarily focusses on front-end web development using ReactJS and plugin development for Vim
-    🌱 I’m currently learning Tensorflow and React Native.
-  </body>
-</html>
+
+I am Pratyay, currently in my final year of undergraduate studies.
+  
+😄 Pronouns: he/him
+    
+🔭 My current work primarily focusses on front-end web development using ReactJS and plugin development for Vim
+    
+🌱 I’m currently learning Tensorflow and React Native.
+
 <!--
 
 Here are some ideas to get you started:
