@@ -5,8 +5,6 @@ I am Pratyay, currently in my final year of undergraduate studies.
 😄 Pronouns: he/him
     
 🔭 My current work primarily focusses on front-end web development using ReactJS and plugin development for Vim
-    
-🌱 I’m currently learning Tensorflow and React Native.
 
 📫 How to reach me: Send me an <a href="mailto:pratyaypande21@gmail.com">email</a> or connect via <a href="https://www.linkedin.com/in/pratyay-pande/">LinkedIn</a>
 <!--
