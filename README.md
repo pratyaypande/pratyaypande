@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Pratyay, currently in my final year of undergraduate studies.
+I am Pratyay, a recent graduate, currently an Associate in MathWorks (creators of MATLAB and Simulink).
   
 😄 Pronouns: he/him
     
-🔭 My current work primarily focusses on front-end web development using ReactJS and plugin development for Vim
+🔭 My current interests are front-end web development and ML.
 
-📫 How to reach me: Send me an <a href="mailto:pratyaypande21@gmail.com">email</a> or connect via <a href="https://www.linkedin.com/in/pratyay-pande/">LinkedIn</a>
+📫 To reach out to me, please send me an <a href="mailto:pratyaypande21@gmail.com">email</a> or connect via <a href="https://www.linkedin.com/in/pratyay-pande/">LinkedIn</a>
 <!--
 
 Here are some ideas to get you started:
