@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am Pratyay, a recent graduate, currently a Software Engineer at MathWorks (creators of MATLAB and Simulink).
+I am Pratyay, a recent graduate and currently a Software Engineer at MathWorks (creators of MATLAB and Simulink).
   
 😄 Pronouns: he/him
-    
-🔭 My current interests are full-stack development and Statistics.
 
 📫 To reach out to me, please feel free to <a href="mailto:pratyaypande21@gmail.com">send an email</a> or connect via <a href="https://www.linkedin.com/in/pratyay-pande/">LinkedIn</a>
 <!--
