@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I am Pratyay, Software Engineer at MathWorks (creators of MATLAB and Simulink).
-  
-😄 Pronouns: he/him
 
 📫 To reach out to me, please feel free to <a href="mailto:pratyaypande21@gmail.com">send an email</a> or connect via <a href="https://www.linkedin.com/in/pratyay-pande/">LinkedIn</a>
 <!--
